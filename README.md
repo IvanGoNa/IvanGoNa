@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Currently uploading and documenting academic and personal projects. This GitHub will soon include code related to my studies and software development learning.
 <!--
 **IvanGoNa/IvanGoNa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
